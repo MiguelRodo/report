@@ -11,3 +11,5 @@ RoxygenNote: 7.2.3
 Imports: renv, fs, usethis, yaml, bookdown, rprojroot, desc, rmarkdown, gert, roxygen2, pkgbuild, gh
 Suggests: covr, devtools, piggyback, testthat (>= 3.0.0)
 Config/testthat/edition: 3
+URL: https://github.com/MiguelRodo/report
+BugReports: https://github.com/MiguelRodo/report/issues
